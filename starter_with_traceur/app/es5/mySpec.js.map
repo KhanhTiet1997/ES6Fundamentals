@@ -1,0 +1,1 @@
+{"version":3,"file":"app/es5/mySpec.js","sources":["app/es5/mySpec.js"],"names":[],"mappings":"AAMA;CAAA","sourcesContent":["// describe('how to run a test', function() {\r\n//   it('should work...', function() {\r\n//     let add = (x, y) => x + y;\r\n//     expect(add(5, 3)).toBe(8);\r\n//   });\r\n// });\r\n"]}
